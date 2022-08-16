@@ -1,0 +1,96 @@
+{
+  "main": {
+    "id": "991a16a6bb557a49",
+    "type": "split",
+    "children": [
+      {
+        "id": "9cac7a5214438790",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "37ff876408a7b614",
+    "type": "split",
+    "children": [
+      {
+        "id": "7a37a15220b7d0e9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "00c8c4b85686a31d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "621619a789691385",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "8b47eab7bb16da17",
+    "type": "split",
+    "children": [
+      {
+        "id": "f041213078b00e88",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "035b8d225d83d6fc",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "9cac7a5214438790",
+  "lastOpenFiles": [
+    "AngularForm/Forms.md",
+    "Pipes/Pipes.md",
+    "Pipes/Pasted image 20220614094008.png",
+    "Untitled.md",
+    "AngularForm/Pasted image 20220613161207.png",
+    "AngularForm/Pasted image 20220608152211.png",
+    "Routing/Routing.md",
+    "Routing/Pasted image 20220606115101.png"
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "main": {
+    "id": "faba485a2e53252a",
+    "type": "split",
+    "children": [
+      {
+        "id": "9065c3459c9e0d3d",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "JS Talk preparation/Answers.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "077ae8236906a406",
+    "type": "split",
+    "children": [
+      {
+        "id": "c1182d5c245a8d51",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "db195189d39dfd01",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "bcff2eacccc510a5",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "510b5aa528669a77",
+    "type": "split",
+    "children": [
+      {
+        "id": "f3c8090d6dc368d6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b95b97c1db50b90d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "JS Talk preparation/Answers.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "9065c3459c9e0d3d",
+  "lastOpenFiles": [
+    "Corsware notes.md",
+    "AngularNotes/AngularForm/Forms.md",
+    "Corsware notes 1.md",
+    "README.md",
+    "EngHW/7.1.22.md",
+    "AngularNotes/HostListener&HostBinding/HostListener&HostBinding.md",
+    "TechnicalSrcreening1/JSbasic.md",
+    "TechnicalSrcreening1/HTML&Css.md"
+  ]
+}
