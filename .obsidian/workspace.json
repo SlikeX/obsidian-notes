@@ -4,16 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "9065c3459c9e0d3d",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "PresentationForBomjes/AngularIntewievQuestions.md",
-            "mode": "source",
-            "source": false
+        "id": "8fa30903f84b3bac",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9065c3459c9e0d3d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PresentationForBomjes/AngularIntewievQuestions.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        }
+        ]
       }
     ],
     "direction": "vertical"
@@ -31,7 +37,9 @@
             "type": "leaf",
             "state": {
               "type": "file-explorer",
-              "state": {}
+              "state": {
+                "sortOrder": "alphabetical"
+              }
             }
           },
           {
@@ -53,8 +61,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "510b5aa528669a77",

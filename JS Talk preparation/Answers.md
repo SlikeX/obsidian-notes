@@ -2,39 +2,12 @@
 
 1.    Hosting, be able to create an example of it in code
 
-_Поднятие_ или _hoisting_ — это механизм в JavaScript, в котором переменные и объявления функций, передвигаются вверх своей области видимости перед тем, как код будет выполнен.
-
-## Undefined vs ReferenceError
-
-Перед тем, как мы начнем серьёзно углубляться в этот вопрос, давайте проясним несколько вещей.
-
- console.log(typeof variable); **// Выводит: undefined**
-
-Это приведет нас к первому заключению. В JavaScript, необъявленной переменной при выполнении кода назначается значение `undefined` , а так же и тип `undefined`.
-
-Вторым заключением будет:
-
-console.log(variable); // **Выводит: ReferenceError: variable is not defined**
-
-В JavaScript, `ReferenceError` появляется при попытке доступа к предварительно необъявленной переменной.
-
-Поведение JavaScript при работе с переменными становится довольно утонченным делом из-за «поднятия». Мы увидим это более детально в следующих параграфах.
-
-Объявление переменных происходит перед выполнением кода.
-
-function hoist() {  
-  a = 20;  
-  var b = 100;  
-}  
-  
-hoist();  
-  
-console.log(a);**/*****Доступ как к глобальной переменной вне функции hoist()****Выводит: 20*****/**console.log(b);**/*****Как только b была назначена, она заключена в рамки области видимости функции hoist(). Что означает то, что мы не можем вывести её за рамки функции.****Вывод: ReferenceError: b is not defined*****/**
-
-переменная а записывается в объект window и имеет глобальную область видимости
+https://medium.com/@stasonmars/%D1%80%D0%B0%D0%B7%D0%B1%D0%B8%D1%80%D0%B0%D0%B5%D0%BC%D1%81%D1%8F-%D1%81-%D0%BF%D0%BE%D0%B4%D0%BD%D1%8F%D1%82%D0%B8%D0%B5%D0%BC-hoisting-%D0%B2-javascript-7d2d27bc51f1#:~:text=%D0%9F%D0%BE%D0%B4%D0%BD%D1%8F%D1%82%D0%B8%D0%B5%20%D0%B8%D0%BB%D0%B8%20hoisting%20%E2%80%94%20%D1%8D%D1%82%D0%BE%20%D0%BC%D0%B5%D1%85%D0%B0%D0%BD%D0%B8%D0%B7%D0%BC,%D1%82%D0%B5%D0%BC%2C%20%D0%BA%D0%B0%D0%BA%20%D0%BA%D0%BE%D0%B4%20%D0%B1%D1%83%D0%B4%D0%B5%D1%82%20%D0%B2%D1%8B%D0%BF%D0%BE%D0%BB%D0%BD%D0%B5%D0%BD.
 
 
 2.    Closures, be able to create an example of it in code
+
+https://medium.com/@stasonmars/%D0%BF%D0%BE%D0%BD%D0%B8%D0%BC%D0%B0%D0%B5%D0%BC-%D0%B7%D0%B0%D0%BC%D1%8B%D0%BA%D0%B0%D0%BD%D0%B8%D1%8F-%D0%B2-javascript-%D1%80%D0%B0%D0%B7-%D0%B8-%D0%BD%D0%B0%D0%B2%D1%81%D0%B5%D0%B3%D0%B4%D0%B0-c211805b6898
 
 3.    Have solid understand why we use closures, how it is connected with encapsulation and IIFE
 
