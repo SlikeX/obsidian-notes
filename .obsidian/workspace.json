@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9065c3459c9e0d3d",
+            "id": "a6564e6d593be8ea",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PresentationForBomjes/AngularIntewievQuestions.md",
+                "file": "AngularNotes/AngularForm/Forms.md",
                 "mode": "source",
                 "source": false
               }
@@ -56,12 +56,20 @@
                 "sortOrder": "alphabetical"
               }
             }
+          },
+          {
+            "id": "2a7758f8907464b1",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "510b5aa528669a77",
@@ -77,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PresentationForBomjes/AngularIntewievQuestions.md",
+                "file": "AngularNotes/AngularForm/Forms.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,17 +103,50 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "9065c3459c9e0d3d",
+  "left-ribbon": {
+    "hiddenItems": {
+      "canvas:Создать новый холст": false,
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "command-palette:Открыть палитру команд": false,
+      "markdown-importer:Импорт Markdown-файлов": false
+    }
+  },
+  "active": "a6564e6d593be8ea",
   "lastOpenFiles": [
-    "TestsResults/JSbasics.md",
-    "EngHW/10.3.22.md",
-    "EngHW/9.30.22.md",
-    "EngHW/9.28.22.md",
-    "EngHW/9.26.22.md",
-    "EngHW/9.23.22.md",
-    "JS Talk preparation/Answers.md",
-    "Corsware notes.md",
+    "Без названия.canvas",
+    "Angular Teckcheck/Angular Techcheck.md",
+    "Angular Teckcheck/img/Pasted image 20230517143511.png",
     "AngularNotes/AngularForm/Forms.md",
-    "Corsware notes 1.md"
+    "AngularNotes/HostListener&HostBinding/HostListener&HostBinding.md",
+    "Dependency injection in Angular/useClass,useExisting,useValue,useFactory.md",
+    "Dependency injection in Angular/Understanding hierarchial injectors.md",
+    "Dependency injection in Angular/Multiple providers.md",
+    "Dependency injection in Angular/Dependency resolution modifiers.md",
+    "Dependency injection in Angular/Img/Pasted image 20230510093104.png",
+    "Dependency injection in Angular/Img/Pasted image 20230510092901.png",
+    "Dependency injection in Angular/Img/Pasted image 20230510092608.png",
+    "Angular Teckcheck/img/Pasted image 20230504124508.png",
+    "Angular Teckcheck/img/Pasted image 20230503094620.png",
+    "Angular Teckcheck/img/Pasted image 20230503094612.png",
+    "Angular Teckcheck/img/Pasted image 20230503094233.png",
+    "Angular Teckcheck/img/presentation-angular-final.jpg",
+    "Angular Teckcheck/img/Pasted image 20230503085634.png",
+    "Angular Teckcheck/img",
+    "TechCheck/Notes.md",
+    "Angular Teckcheck",
+    "TechCheck/Bad in.md",
+    "Assesment prep/Soft skills.md",
+    "Notes/Notes.md",
+    "Dependency injection in Angular/Img",
+    "NgRx/NgRx.md",
+    "NgRx",
+    "TechnicalSrcreening1/JSbasic.md",
+    "TechnicalSrcreening1/HTML&Css.md",
+    "TechnicalSrcreening1/CoreJs.md",
+    "EngHW/7.1.22.md",
+    "JS Talk preparation/Answers.md",
+    "TechCheck/Practice tasks.md",
+    "TechCheck/TrickyQuestions.md"
   ]
 }

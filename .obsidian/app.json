@@ -1,5 +1,5 @@
 {
-  "attachmentFolderPath": "./",
+  "attachmentFolderPath": "./img",
   "spellcheck": true,
   "promptDelete": false,
   "pdfExportSettings": {
