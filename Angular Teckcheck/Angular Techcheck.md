@@ -13,10 +13,7 @@
 -   Forms(main directives, usage) -
 -   Rxjs(Observable, Observer, switchMap, map, tap, subscribe)
 -   ServicesUnit Tests (TestBed, Jasmine)
-чекнуть основы форм
-чекнуть директивы кастомные
-@ViewChild ViewChildren
-чекнуть тесты
+
 # Intermediate
 
 -   Typescript (object, never, void, union, intersection, basic generic types)

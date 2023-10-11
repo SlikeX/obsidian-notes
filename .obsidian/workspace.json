@@ -13,13 +13,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AngularNotes/AngularForm/Forms.md",
+                "file": "TechCheck/TrickyQuestions.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "d5288ea0d96af80f",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.14"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AngularNotes/AngularForm/Forms.md",
+                "file": "TechCheck/TrickyQuestions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,13 +123,20 @@
       "markdown-importer:Импорт Markdown-файлов": false
     }
   },
-  "active": "a6564e6d593be8ea",
+  "active": "d5288ea0d96af80f",
   "lastOpenFiles": [
-    "Без названия.canvas",
-    "Angular Teckcheck/Angular Techcheck.md",
-    "Angular Teckcheck/img/Pasted image 20230517143511.png",
+    "TechCheck/Practice tasks.md",
+    "TechCheck/Pasted image 20221213102259.png",
+    "TechCheck/Pasted image 20221213102244.png",
+    "TechCheck/Pasted image 20221213102227.png",
+    "TechCheck/Pasted image 20221213102206.png",
+    "TechCheck/Notes.md",
+    "TechCheck/Bad in.md",
     "AngularNotes/AngularForm/Forms.md",
     "AngularNotes/HostListener&HostBinding/HostListener&HostBinding.md",
+    "Angular Teckcheck/Angular Techcheck.md",
+    "Без названия.canvas",
+    "Angular Teckcheck/img/Pasted image 20230517143511.png",
     "Dependency injection in Angular/useClass,useExisting,useValue,useFactory.md",
     "Dependency injection in Angular/Understanding hierarchial injectors.md",
     "Dependency injection in Angular/Multiple providers.md",
@@ -128,14 +146,8 @@
     "Dependency injection in Angular/Img/Pasted image 20230510092608.png",
     "Angular Teckcheck/img/Pasted image 20230504124508.png",
     "Angular Teckcheck/img/Pasted image 20230503094620.png",
-    "Angular Teckcheck/img/Pasted image 20230503094612.png",
-    "Angular Teckcheck/img/Pasted image 20230503094233.png",
-    "Angular Teckcheck/img/presentation-angular-final.jpg",
-    "Angular Teckcheck/img/Pasted image 20230503085634.png",
     "Angular Teckcheck/img",
-    "TechCheck/Notes.md",
     "Angular Teckcheck",
-    "TechCheck/Bad in.md",
     "Assesment prep/Soft skills.md",
     "Notes/Notes.md",
     "Dependency injection in Angular/Img",
@@ -146,7 +158,6 @@
     "TechnicalSrcreening1/CoreJs.md",
     "EngHW/7.1.22.md",
     "JS Talk preparation/Answers.md",
-    "TechCheck/Practice tasks.md",
     "TechCheck/TrickyQuestions.md"
   ]
 }
